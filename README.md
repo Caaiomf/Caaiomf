@@ -6,11 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Caaiomf">
-    <img src="https://img.shields.io/badge/GitHub-Caaiomf-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Matheus-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-Caaiomf-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/caiofavarao">
+    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Matheus-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -123,14 +121,6 @@ Projeto academico criado para praticar fundamentos de programacao para internet 
 - Boas praticas de seguranca em login e senhas
 - Melhorias de README, portfolio e apresentacao profissional
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Caaiomf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caaiomf&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
