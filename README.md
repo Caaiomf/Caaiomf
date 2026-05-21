@@ -75,21 +75,26 @@ Portfolio frontend para apresentar projetos de arquitetura e urbanismo com layou
 
 ---
 
-### Cadastro de Produtos com Login, Cookies e Sessoes
+### Trabalho Final PPI - Sistema de Campeonato de E-Sports
 
-Projeto academico criado para praticar fundamentos de programacao para internet com Node.js e Express.
+Sistema web academico para organizar um campeonato amador de League of Legends, com cadastro de equipes e jogadores.
 
 **Principais recursos:**
 
 - Login simples
+- Logout
+- Controle de acesso com sessao
+- Cookie para registrar ultimo acesso
 - Rotas GET e POST
 - Formularios HTML
 - Validacao de campos obrigatorios
-- Cadastro e listagem de produtos
-- Tabela dinamica gerada pelo servidor
-- Controle de acesso com sessao
-- Cookie para registrar ultimo acesso
-- Logout
+- Cadastro de equipes
+- Cadastro de jogadores vinculados a uma equipe
+- Select de equipes renderizado pelo servidor
+- Listagem de equipes cadastradas
+- Listagem de jogadores agrupados por equipe e funcao
+- Interface responsiva com Bootstrap
+- Configuracao para deploy na Vercel
 
 **Tecnologias:** Node.js, Express, HTML, Bootstrap, JavaScript, Cookie Parser, Express Session.
 
@@ -104,6 +109,9 @@ Projeto academico criado para praticar fundamentos de programacao para internet 
 - Receber e validar dados de formularios
 - Usar sessoes para login e controle de acesso
 - Usar cookies para manter pequenas informacoes no navegador
+- Relacionar dados entre cadastros, como jogadores vinculados a equipes
+- Renderizar selects dinamicos com dados cadastrados no servidor
+- Agrupar e exibir informacoes em tabelas HTML
 - Trabalhar com arrays, objetos e arquivos JSON
 - Fazer upload de imagens no back-end
 - Criar estrutura inicial de projeto com pastas separadas
@@ -120,7 +128,6 @@ Projeto academico criado para praticar fundamentos de programacao para internet 
 - Organizacao em controllers, routes e services
 - Boas praticas de seguranca em login e senhas
 - Melhorias de README, portfolio e apresentacao profissional
-
 
 ---
 
