@@ -1,23 +1,27 @@
 <h1 align="center">Caio Matheus Favarao</h1>
 
 <p align="center">
-  Estudante de Analise e Desenvolvimento de Sistemas | Desenvolvimento Web | Node.js | Express | MySQL
+  Desenvolvimento Web | Analise e Desenvolvimento de Sistemas | JavaScript | Node.js | Express | MySQL
 </p>
 
 <p align="center">
   <a href="https://github.com/Caaiomf">
-    <img src="https://img.shields.io/badge/GitHub-Caaiomf-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/caiofavarao">
-    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Matheus-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/GitHub-Caaiomf-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Caio%20Matheus-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou estudante de **Analise e Desenvolvimento de Sistemas**, atualmente no **3o termo**, desenvolvendo projetos web com foco em pratica real: paginas responsivas, formularios, rotas HTTP, login, sessoes, cookies, carrinho de compras, upload de imagens e organizacao de codigo em Node.js.
+Sou estudante de **Analise e Desenvolvimento de Sistemas**, atualmente no **3o termo**, com foco em desenvolvimento web e construcao de aplicacoes praticas usando JavaScript, Node.js, Express e MySQL.
 
-Tenho base em **HTML, CSS, JavaScript, Git, GitHub, SQL basico com MySQL, HTTP, Node.js e Express**. Estou evoluindo meus projetos para integrar banco de dados, APIs JSON e estruturas mais proximas de sistemas usados no mercado.
+Meus projetos envolvem paginas responsivas, formularios, rotas HTTP, login, sessoes, cookies, carrinho de compras, upload de imagens, manipulacao de dados em JSON e organizacao de codigo em aplicacoes Node.js.
+
+Atualmente estou evoluindo meus projetos com integracao a banco de dados, APIs JSON, CRUD completo e estruturas mais proximas de sistemas usados em producao.
 
 ---
 
@@ -131,11 +135,11 @@ Sistema web academico para organizar um campeonato amador de League of Legends, 
 
 ---
 
-## Objetivo profissional
+## Foco profissional
 
-Busco minha primeira oportunidade na area de TI como **estagiario**, **desenvolvedor web iniciante**, **front-end iniciante** ou em uma funcao onde eu possa aplicar programacao, logica, suporte a sistemas e desenvolvimento web.
+Tenho interesse em atuar com **desenvolvimento web**, especialmente em projetos que envolvam interfaces responsivas, JavaScript, Node.js, Express, banco de dados e integracao entre front-end e back-end.
 
-Meu foco e continuar construindo projetos praticos, aprender com pessoas mais experientes e transformar conhecimento academico em solucoes reais.
+Meu foco e construir solucoes simples, funcionais e bem organizadas, transformando conhecimento academico em projetos reais e evoluindo continuamente como desenvolvedor.
 
 ---
 
@@ -144,4 +148,3 @@ Meu foco e continuar construindo projetos praticos, aprender com pessoas mais ex
 - GitHub: [github.com/Caaiomf](https://github.com/Caaiomf)
 - LinkedIn: [linkedin.com/in/caiofavarao/](https://www.linkedin.com/in/caiofavarao/)
 - E-mail: `Caiofavarao@hotmail.com`
-
